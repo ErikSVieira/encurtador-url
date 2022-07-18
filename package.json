@@ -1,0 +1,11 @@
+{
+  "name": "encurtador-url",
+  "version": "1.0.0",
+  "description": "Encurtador de URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ErikSVieira\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[C\u001b[DS Vieira\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[D",
+  "license": "ISC"
+}
