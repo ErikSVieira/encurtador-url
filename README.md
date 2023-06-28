@@ -1,6 +1,6 @@
 # Encurtador de URL usando TypeScript, MongoDB, npm, node, yarn
 
-## Pnicipais features:
+## Principais ferramentas:
 1. [typescript](https://www.npmjs.com/package/typescript)
     - [@types/express](https://www.npmjs.com/package/@types/express)
 1. [@typescript-eslint/eslint-plugin](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin)
